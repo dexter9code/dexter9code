@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="200" src='https://c.tenor.com/RpKXrOa3eOAAAAAd/welcome.gif'>
+<img align="center" width="100%" height="200" src='https://github.com/dexter9code/dexter9code/blob/main/real%20welcome.gif'>
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">MERN Developer,React-Native,Django</h3>
 

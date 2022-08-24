@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dexter9code](https://github.com/dexter9code)
 
-- 💬 Ask me about **react,js,node,native**
+- 💬 Ask me about **html/css,js,react,node**
 
 - 📫 How to reach me **gaurav98king@gmail.com**
 
